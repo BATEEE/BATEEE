@@ -8,9 +8,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    🔭 I’m currently working on Home<br><br>🌱 I’m currently learning <strong>Java, C++, JavaScript, Spring Boot, ...</strong><br><br>📫 How to reach me <strong>thangtran081204@gmail.com</strong>
+    <div style="border:2px solid #e4e2e2; border-radius: 5px;">🔭 I’m currently working on Home<br><br>🌱 I’m currently learning <strong>Java, C++, JavaScript, Spring Boot, ...</strong><br><br>📫 How to reach me         <strong>thangtran081204@gmail.com</strong></div>
     </td>
     <td>
       <p align="center"> 
