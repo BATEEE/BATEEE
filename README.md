@@ -1,4 +1,8 @@
-# <div style="text-align: center;">Hey👋, I'm Thang</div>
+# 
+<h1 align="center">Hi 👋, I'm Thang</h1>
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
 
 
 # 💫 About Me:
