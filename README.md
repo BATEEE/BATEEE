@@ -1,3 +1,4 @@
+<img width="100%" height="300" src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp">
 <h1 align="center">Hi 👋, I'm Thang</h1>
 <p align="center">
   <h3 align="center">A passionate programming student from Vietnam 🇻🇳 </h3>
