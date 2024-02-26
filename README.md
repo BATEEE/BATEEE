@@ -5,11 +5,12 @@
 
 
 # 💫 About Me:
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" align="right" width="400"/>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" align="right" width="450"/>
 <p>🔭 I’m currently working on Home<br><br>🌱 I’m currently learning <strong>Java, C++, JavaScript, Spring Boot, ...</strong><br><br>📫 How to reach me         <strong>thangtran081204@gmail.com</strong><p>
+<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010892949700) 
 
 # 💻 Tech Stack:
