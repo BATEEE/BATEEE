@@ -4,8 +4,6 @@
   <h3 align="center">A passionate programming student from Vietnam 🇻🇳 </h3>
 </p>
 
-![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=0&color=007ec6)
-
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" align="right" width="450"/>
 
 # 💫 About Me:
