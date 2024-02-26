@@ -8,7 +8,6 @@
 
 # 💫 About Me:
 <p>🔭 I’m currently working on Home<br><br>🌱 I’m currently learning <strong>Java, C++, JavaScript, Spring Boot, ...</strong><br><br>📫 How to reach me         <strong>thangtran081204@gmail.com</strong><p>
-<br><br>
 
 
 # 🌐 Socials:
