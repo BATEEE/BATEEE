@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<table style="width:100%;">
+<table style="width:100%;border:none">
   <tr>
     <td>
     <div style="border:2px solid #e4e2e2; border-radius: 5px;">🔭 I’m currently working on Home<br><br>🌱 I’m currently learning <strong>Java, C++, JavaScript, Spring Boot, ...</strong><br><br>📫 How to reach me         <strong>thangtran081204@gmail.com</strong></div>
