@@ -1,8 +1,8 @@
-# Hey👋, I'm Thang
+# <div style="text-align: center;">Hey👋, I'm Thang</div>
 
 
 # 💫 About Me:
-🔭 I’m currently working on Home<br><br>🌱 I’m currently learning Java, C++, JavaScript, Spring Boot, ...<br><br>📫 How to reach me thangtran081204@gmail.com
+🔭 I’m currently working on Home<br><br>🌱 I’m currently learning <strong>Java, C++, JavaScript, Spring Boot, ...</strong><br><br>📫 How to reach me thangtran081204@gmail.com
 
 
 ## 🌐 Socials:
