@@ -16,15 +16,9 @@
 👨‍💻 I'm currently working as a **Backend Intern at TMA Solutions**, building APIs for AGV systems using Python (FastAPI) and MySQL.
 
 🌱 My primary focus is mastering **Java Backend Engineering** with **Spring Boot**. I am passionate about building scalable, robust, and high-performance systems.
-`
-🔭 **Recent & Upcoming Projects:**
-* **Online Job Finder (Mobile):** A React Native app with Firebase integration.
-* **Mini Core Banking/E-Wallet Service:** (Planned) Building a high-concurrency transactional system using Java, Spring Boot, and PostgreSQL.
-`
+
 📫 **How to reach me:**
 * Email: [thangtran081204@gmail.com](mailto:thangtran081204@gmail.com)
-* LinkedIn: (Nên thêm link LinkedIn của bạn vào đây nếu có)
-
 ---
 
 # 💻 Tech Stack
