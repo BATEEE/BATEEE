@@ -1,5 +1,8 @@
+<img width="100%" height="300" src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp" alt="Banner">
+<h3 align="center" size="100px">Hi 👋, I'm Thang Tran</h3>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thang+Tran;Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
