@@ -25,8 +25,6 @@
 
 <br clear="all" />
 
----
-
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -51,27 +49,20 @@
 
 </div>
 
----
 
 # 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BATEEE&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="BATEEE's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BATEEE&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
   </a>
-  <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BATEEE&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BATEEE&theme=tokyonight&hide_border=true" alt="Streak" height="165"/>
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BATEEE&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" height="165"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BATEEE&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
----
 
 # 🤝 Connect With Me
 
