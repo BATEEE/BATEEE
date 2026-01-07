@@ -2,7 +2,7 @@
 <h3 align="center" size="100px">Hi 👋, I'm Thang Tran</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
