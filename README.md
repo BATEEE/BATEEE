@@ -17,7 +17,7 @@
 
 > *"Building scalable systems, one line of code at a time."*
 
-- 🏢 I'm currently working as a **Backend Intern at TMA Solutions**, building APIs for **AGV systems** using **Python (FastAPI)**.
+- 🏢 I'm currently working as a **Fullstack Intern at TMA Solutions**, building APIs for **AGV systems** using **Python (FastAPI)**.
 - 🌱 My primary focus is mastering **Java Backend Engineering** with **Spring Boot**.
 - 🎯 I am passionate about **System Design**, **Database Optimization**, and **High-Concurrency**.
 - 🇻🇳 Based in **Ho Chi Minh City, Vietnam**.
