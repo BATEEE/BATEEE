@@ -2,7 +2,7 @@
 <h3 align="center" size="100px">Hi 👋, I'm Thang Tran</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=20C20E&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=20C20E&center=true&vCenter=true&width=700&lines=FullStack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 > *"Building scalable systems, one line of code at a time."*
 
-- 🏢 I worked as a **Fullstack Intern at TMA Solutions**, building APIs for **AGV systems** using **Python (FastAPI)**.
-- 🌱 My primary focus is mastering **Java Backend Engineering** with **Spring Boot**.
+- 🏢 I worked as a **Fullstack Intern at TMA Solutions**, building APIs using **Python (FastAPI)**.
+- 🌱 My primary focus is becoming a **Software Engineering**.
 - 🎯 I am passionate about **System Design**, **Database Optimization**, and **High-Concurrency**.
 - 🇻🇳 Based in **Ho Chi Minh City, Vietnam**.
 - 📫 Reach me at: [thangtran081204@gmail.com](mailto:thangtran081204@gmail.com)
